@@ -1,4 +1,8 @@
 <template>
+  <div id="test">
+    <h1>{{ msg }}</h1>
+    <p> 안녕안녕 나는 덕득이야</p>
+  </div>
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
